@@ -1,0 +1,1 @@
+# oci_inventory_object_storage
